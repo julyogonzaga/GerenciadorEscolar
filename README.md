@@ -2,7 +2,7 @@
 
 Um sistema desktop para gerenciamento de alunos e notas, desenvolvido em **Kotlin** com interface gráfica em **Java Swing** e persistência de dados no **MySQL**.
 
-O projeto permite cadastrar alunos, lançar e atualizar notas, realizar o cálculo automático de médias e acompanhar a situação acadêmica de cada estudante em tempo real.
+O projeto permite cadastrar alunos, lançar e atualizar notas, realizar o cálculo automático de médias e acompanhar a situação acadêmica de cada estudante em tempo real. Obs: Existem dois Códigos - Um com o terminal e outro com a interface.
 
 ---
 
